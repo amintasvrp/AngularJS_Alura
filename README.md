@@ -1,4 +1,4 @@
-# Angular JS
+# AngularJS Alura
 Repository for the Web App developed during the Alura's AngularJS courses.
 
 ## Courses (in Brazilian Portuguese):
